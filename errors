@@ -1,0 +1,2 @@
+AttributeError : This error would come up if the method called is not attributed or available in the built in function or user defined function.
+ - string datatype does not have len() function attributed error.
